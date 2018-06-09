@@ -8,8 +8,8 @@
 #define YELLOW_2  6
 #define RED_2     7
 
-#define LIGHT_ON 0
-#define LIGHT_OFF 1
+#define LIGHT_ON 1
+#define LIGHT_OFF 0
 
 class Traffic_Light
 {
